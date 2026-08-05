@@ -1,0 +1,11 @@
+build/
+*.build/
+*.hex
+*.elf
+*.bin
+*.map
+*.a
+*.o
+
+.vscode/
+*.code-workspace
